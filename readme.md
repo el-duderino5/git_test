@@ -1,1 +1,1 @@
-git testing
+testing git functionality
